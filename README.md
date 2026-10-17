@@ -1,7 +1,7 @@
 # Autoregressive Text Generation with SimpleRNN, Bidirectional RNN, LSTM and GRU
 
 **Course:** Foundations of Generative AI (ICT4403) - Assignment 2
-**Name:** YOUR NAME | **Reg. No.:** YOUR REG NO
+**Name:** Mihika Bardhan | **Reg. No.:** 230953122
 
 ## 1. Problem statement and objective
 Build word-level autoregressive language models that predict the next word and generate text one word at a time. SimpleRNN, Bidirectional RNN (BiRNN), LSTM and GRU models are trained under identical conditions, compared quantitatively (loss, perplexity, accuracy, training time) and qualitatively (coherence, diversity, repetition), and analysed under three sampling temperatures. The aim is to identify the most effective model for autoregressive generation on this dataset.
