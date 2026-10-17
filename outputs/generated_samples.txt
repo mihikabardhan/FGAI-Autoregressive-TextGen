@@ -1,0 +1,72 @@
+
+=== Temperature 0.5 | Seed: 'alice was beginning to get very tired of sitting' ===
+[SimpleRNN] alice was beginning to get very tired of sitting on the chimney, and call a queen, and she found it and very little of the distance, and she spoke to see the gryphon, and she could never to be a little way to be down, and she was now to be a little way
+[BiRNN] alice was beginning to get very tired of sitting it. if it was going to herself, and she tried to work, and she was out of the other things not! and she said the mouse. i'm the queen, and she was a little moment she had not off to the hatter. the
+[LSTM] alice was beginning to get very tired of sitting on the dance. the gloves of the queen, and then it had not. i is her head! said alice. you know. the queen was very snatch and the rabbit, and she was not a large moment, said alice, and she said
+[GRU] alice was beginning to get very tired of sitting on the window, and began to herself, and she tried to herself, and she said to herself, and yet you see, said the mock turtle. chapter oop of the same way, and she went on, and then it was a little way
+
+=== Temperature 0.5 | Seed: 'the queen said to the' ===
+[SimpleRNN] the queen said to the sea, but she was another little question, and she found it to be a little little height and gloves, said alice. i go, and said to herself, and she said the gryphon, and she began to be up with the door. the
+[BiRNN] the queen said to the moment, i know, i'm a little little voice, but she went to the hatter, and she had not silent to the queen, and she went on at the other, and she was a little going in her head and turned was, and she
+[LSTM] the queen said to the court, and she said it, said the gryphon, as she could not a little were pig, and she felt what at the first, and she had made the mouse, and the gryphon, said alice. alice was out of the hatter. the
+[GRU] the queen said to the table, and she was gone up in the end of a large minutes, and she was looking up to the sky of the door, and the other idea did it was a little way of the sea, and was a great deal of the pool of
+
+=== Temperature 0.5 | Seed: 'she opened the door and found' ===
+[SimpleRNN] she opened the door and found out of the sea, who did not a little thing to herself, and she had a little tone. i suppose not? said alice, and it was quite a little tone, and she was not to say it, said alice, and it was
+[BiRNN] she opened the door and found her eyes to say, for she went to herself, with the house, and alice was herself, and she sat on to the other, and had been another queen, and she was at the words, and then she found to the hatter. the
+[LSTM] she opened the door and found it, i can't be timidly, said the gryphon, as she could not a little were pig, and she felt what at the first, and she had made the mouse, and the gryphon, said alice. alice was out of the hatter. the
+[GRU] she opened the door and found it, said alice, very ootiful there was a little legged tone. i don't know, said alice. i hardly think you know. the queen was very conversations, and she was a little thing, and was in a book tone, and was a
+
+=== Temperature 0.5 | Seed: 'i do not know what you mean said the' ===
+[SimpleRNN] i do not know what you mean said the dormouse, but she was sure to see the gryphon, she had quite a little tone, but she did not poor great thing, and the queen, said alice, and she said the gryphon, and she began to be up with the white voice,
+[BiRNN] i do not know what you mean said the dormouse. then you know what? said the gryphon, but it had not a little of one of her. i'll begin with, and the queen. not makes a little tone, and said the mouse, and then she might see to the duchess,
+[LSTM] i do not know what you mean said the dormouse, said alice, if it had a little thing was a good table, and the dormouse was very great ugly tone. the hatter, and she is their than a little thing, and she had not think in the whole moment, and she said
+[GRU] i do not know what you mean said the cat, she went on: i shall be no use about it. i don't know, said alice. i may have been a little little way of the kitchen, and she was a little tone of it as well, you know, said alice,
+
+=== Temperature 1.0 | Seed: 'alice was beginning to get very tired of sitting' ===
+[SimpleRNN] alice was beginning to get very tired of sitting remark. serpent. she doubtful good cause, alice had cautiously seen me at the arm, which took one; weak doubtfully! it did, said alice in moderate. not dear, she did it took a telescope in a wine! alice is have to
+[BiRNN] alice was beginning to get very tired of sitting think it means all the poured go back, but said there would shall have? he said? at his words luckily she's marked! but the queen? without flustered a right tone, and heard and does it earls what might cause? i know; and
+[LSTM] alice was beginning to get very tired of sitting who was lying quite it watched her along the garden, feeling her pale to like it, that's there are? pleaded some sobs! one, and sure he hasn't not again. it said to so from at last is to work whether it was before,
+[GRU] alice was beginning to get very tired of sitting chapter neck humbly as she tucked my confused, said the whiting. it's her off. the moral of once. offer why? said the queen, not trying still it with all his eyes over. when it set with a hour tone, and oh,
+
+=== Temperature 1.0 | Seed: 'the queen said to the' ===
+[SimpleRNN] the queen said to the water was jumped before, thank gryphon. she did so bowed for with a minute for the worse tail story for contemptuous dormouse's meekly, said the mock turtle for doubling were half grin, and poor down to see me then! added alice. you shall be
+[BiRNN] the queen said to the middle. saw out, wretched whispered down the pool of cards! even your any turn a difficult morning than alice concluded once behind the house, and every water curiouser and wouldn't look of the sea, half off an miles in mad marked! said alice,
+[LSTM] the queen said to the sky! seven cried, pleaded all over the sea, wondering how fellow it. if and everybody argument not not removed; or it there, she i'll ask wasting it a mad said, alice was soup. please again, last made it. i'm it
+[GRU] the queen said to the english. you'd puzzling that vanishing you're worth a serpent. chorus! exclaimed it, but the capital of distant croquet retire secondly way it seemed and some confusing four bone to say that she was much out with flamingo? when she used in a sort of other
+
+=== Temperature 1.0 | Seed: 'she opened the door and found' ===
+[SimpleRNN] she opened the door and found anxiously at sight. and difficulties out just to find. perhaps you mean! i can't be worth here with a pattern past school, she said, as did happened. i must be it if it would not wouldn't dinah, when what could very pardon,
+[BiRNN] she opened the door and found made a living again, london did tell the house. wouldn't should creatures would be some, for this set to invent home! she did to be nothing with hearing! as alice were was going to speak. it's his end in my child, when the
+[LSTM] she opened the door and found what you want that, faster had make to their serpent; but it's your end of the m for once. secondly! being would have to be trying in each down to go and her use and along a general decidedly, won't here the dormouse time,
+[GRU] she opened the door and found out it him: and memory as i'd king, said alice to hold of the reason, how might used to foolish an thousand thing, the king came round over the same thing, and he could come with cats very cook; when she went on,
+
+=== Temperature 1.0 | Seed: 'i do not know what you mean said the' ===
+[SimpleRNN] i do not know what you mean said the name of tempered. the proposal sat queer, said the water; how come to get, before! i'm no dispute paw? said said, and waving growing books to say it, and would so them to ask with a cushion thing at her question,
+[BiRNN] i do not know what you mean said the dance. yes, she fixed replied out. but it tucked his throat to for in the dead high for that conduct puzzling solemnly. how it was too frightened interrupted the mouse. she was down to tell she together she could speak again, and perhaps to
+[LSTM] i do not know what you mean said the fan she saw them, sending each knee and rabbit in play than sight. i can't? yet; if it sneezes over back. you, to ever talking smaller, said it, and when she made; it's shall would give back to be saying.
+[GRU] i do not know what you mean said the pool of hearts. she wig? just she must have dinn used of of the window, did you can't have doubtful dinah she was down, and yet so passion, said it, and no thing is it i've frightened to enough; and alice doesn't could
+
+=== Temperature 1.5 | Seed: 'alice was beginning to get very tired of sitting' ===
+[SimpleRNN] alice was beginning to get very tired of sitting usually song within confused much likes person already up lessons in teaching begun grammar their reason by the body tail instantly want oneself elsie things this full. you fact if splash you me such them her chin: hope perhaps twinkle like very shy hand for some crash.
+[BiRNN] alice was beginning to get very tired of sitting porpoise by dressed through the scaly encouraging flamingoes and direction at choke yes anything nearly them than a empty set least set expression terrier join the ready, but myself alice's exclamation them here for this time about her difficulty now hardly fond like peeped remark if as twelve or
+[LSTM] alice was beginning to get very tired of sitting silent of smiling care to seaography politely ever a meaning of skimming anxiously nor being sort in the sugar chapter rat tone blasts remarks such a fall, said alice angrily blown what how happened. i wish i continued! breathe duchess a mostly favoured out of ten head
+[GRU] alice was beginning to get very tired of sitting straight here frowning such a lines writing puzzle. why at telescopes idea begun what? come, legged direction its key recovered tis close to might a large vii how leaving as herself could not out how got ready on sobs lessons! gravely rather too poor frowning,
+
+=== Temperature 1.5 | Seed: 'the queen said to the' ===
+[SimpleRNN] the queen said to the label? edwin why, weren't wasn't row! puzzling high hippopotamus case throwing begins what loud to longed with dreadfully few eyelids thistle repeated: come, said at last beheading offended let's full with one hedgehog on surprised; nibbling sure to knowing she's he hand say.
+[BiRNN] the queen said to the shaped chapter bristling learn a listeners latitude royal some either? custard put show much when such a walrus whiting six up kiss shorter fellow so frightened she all often shan't merrily nothing on for what i both course oh to tasted shrinking tears bend follows again. beautiful they
+[LSTM] the queen said to the wink: sending hoping and derision more absurd, when that various morcar is there in end, tis child away; steady often goes: such the duchess party mice placed over his along her when could so fond as dish too enough waiting nine going? far it
+[GRU] the queen said to the unfortunate lessons william now, oblong where pigs, thought alice singing here than this very finish, father stood floor. seeing serpents certain said with the door where walk flown with round if it as cried to change all directly; with love sister again. nearly was
+
+=== Temperature 1.5 | Seed: 'she opened the door and found' ===
+[SimpleRNN] she opened the door and found muchness so laughed silence, crept manage sat! which did dark short lonely when i work it pleaded tree down in hollow sob they'd treacle full of its cool machines eh. i'm waiting! said alice. stay its ones woman his crawled declare was here ever down
+[BiRNN] she opened the door and found fur any shiver looked a england past yesterday a finger croquet bough remember ugh at so because she longed looked directions to impertinent passage turned at once, said have those yelled at don't table alice very important very verse to brought followed what candle appeared i must tears.
+[LSTM] she opened the door and found silence? yesterday done to sink impatiently too so old next ones paw tea looked at than. fast true about out ye slipped will all soup, it goes eagerly heels in them two as alice added to sneezing; quadrille once for railway reading. this she's this
+[GRU] she opened the door and found box for delighted hastily, stingy marked mary eyes such door somersault again which began said one, pointing went room she boxed hush sure to try the dormouse appeared their land how timidly! i do him it coming for choked which with bats bread down in history,
+
+=== Temperature 1.5 | Seed: 'i do not know what you mean said the' ===
+[SimpleRNN] i do not know what you mean said the legs way reading itself. reeling however for it children into wife along telescope at know down, tones anything through this pleasant appearing against a sharp queen, sir it's prison said! how do! half one hot roof forget yourself of tiptoe sea: please players to
+[BiRNN] i do not know what you mean said the bottom of cards going. fainting run within that eat might stalk repeated nor would one room, father you'd hedgehog would bother nursing mad! will said the kid crab tasted much should shall like to while it sometimes till wandered mice you whispered whether no sort changed on
+[LSTM] i do not know what you mean said the legs good yelp only: lazy pray twice and hard so rushed or changing out of called. screamed as it'll good conger alternately anxiously! poor the rabbit since thinking minded on what two as i cried to hearts! sooner everybody tarts speaking into her than digging and
+[GRU] i do not know what you mean said the thank make shaped temper, deepest picking seem to suppose her irons marked knot! you set to pretend it's whiskers! parts consider enough to though, of neck simply educations much happen lessons. i wonder you larger that kick which? she's she's out i want to
