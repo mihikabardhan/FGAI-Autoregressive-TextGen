@@ -1,4 +1,4 @@
-# Autoregressive Text Generation with SimpleRNN, Bidirectional RNN, LSTM and GRU
+# Alice-Gen: A Comparative Study of RNN Architectures for Next-Word Prediction and Text Generation
 
 **Course:** Foundations of Generative AI (ICT4403) - Assignment 2
 **Name:** Mihika Bardhan | **Reg. No.:** 230953122
